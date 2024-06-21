@@ -1,0 +1,351 @@
+external_id,title,mark_and_model,first_registration_date,mileage,gearbox,fuel,engine_size,power,emission_class,co2_value,country_of_origin
+4882005,"AUDI A4 2.0 TDi DPF","Audi A4",09/2009,167856,Automatic,Diesel,1968,136,Euro4,1492,Belgium
+4882103,"FORD C-Max 1.0 EcoBoost Trend S-S","Ford C-Max",05/2013,184144,Manual,Petrol,998,101,Euro5,1172,Belgium
+4882104,"AUDI A3 Sportback Audi A3 Sportback 1.6 TDI 85(116) kW(PS) 6-speed","Audi A3",01/2018,61620,"Manual gearbox",Diesel,1598,116,Euro6,1062,Belgium
+4882105,"VOLVO V60 2.0 D3","Volvo V60",02/2019,144401,Manual,Diesel,1969,150,Euro6d-TEMP,1172,Belgium
+4882106,"SKODA Fabia Combi COM AMB TS 81/1.0 M6F","Skoda Fabia",03/2020,34256,Manual,Petrol,999,110,Euro6d,1042,Belgium
+4882158,"OPEL Mokka 1.4 Turbo 4x2 Enjoy","Opel Mokka",03/2015,151915,Manual,Petrol,1364,140,Euro5,1392,Belgium
+4882160,"AUDI A3 1.4 TFSI Ambition S tronic","Audi A3",04/2014,165844,Automatic,Petrol,1395,140,Euro6,1102,Belgium
+4882161,"VOLKSWAGEN Tiguan Tiguan Trendline 1.5 l TSI GPF 96 kW (130 PS) 6-speed","Volkswagen Tiguan",03/2019,77622,Manual,Petrol,1498,131,Euro6d,1282,Belgium
+4882251,"VOLKSWAGEN Tiguan Tiguan Highline 1.5 l TSI GPF 110 kW (150 PS) 7-speed dual-clutch transmission DSG","Volkswagen Tiguan",01/2019,61919,Automatic,Petrol,1498,150,Euro6d,1382,Belgium
+4882252,"SKODA Superb Combi COM CLASSIC 1,9 TDI 77KW 5V","Skoda Superb",04/2010,191193,Manual,Diesel,1896,105,Euro4,1532,Belgium
+4882253,"VOLKSWAGEN T-Roc T-Roc Style 1.5 l TSI 110 kW (150 PS) 6-speed","Volkswagen T-Roc",07/2018,79747,Manual,Petrol,1498,150,Euro6,1212,Belgium
+4882254,"AUDI A3 1,6 TDI 99GR 105CV/PK 5V","Audi A3",04/2010,245521,"Manual gearbox",Diesel,1598,105,Euro5,992,Belgium
+4882321,"SEAT Arona 1.0 TSI STYLE 5T 85 DS8 AU7","Seat Arona",03/2018,80210,Automatic,Petrol,999,116,Euro6,1132,Belgium
+4882322,"VOLKSWAGEN Tiguan Tiguan Highline 1.5 l TSI GPF 110 kW (150 PS) 7-speed dual-clutch transmission DSG","Volkswagen Tiguan",05/2019,118521,Automatic,Petrol,1498,150,Euro6d-TEMP,1382,Belgium
+4882323,"VOLKSWAGEN Golf VII Golf Comfortline 1.0 l TSI GPF 85 kW (115 PS) 6-speed","Volkswagen Golf",03/2020,142111,Manual,Petrol,999,116,Euro5,1102,Belgium
+4882324,"AUDI Q3 Sportback Audi Q3 Sportback S line 35 TFSI 110(150) kW(PS) S tronic","Audi Q3",08/2021,28051,Automatic,Petrol,1498,150,Euro6d,1342,Belgium
+4882325,"CUPRA Born Born CUPRA 150/62 E1H","Cupra Born",06/2022,24073,"direct no gearbox",Electric,0,204,N/A,12,Belgium
+4882342,"AUDI A6 Audi A6 Sedan sport 35 TDI 120(163) kW(PS) S tronic","Audi A6",03/2021,80636,Automatic,Diesel,1968,163,Euro6d,1162,Belgium
+4882343,"OPEL Zafira Zafira 1.7 CDTi ecoFLEX Enjoy DPF","Opel Zafira",04/2011,408371,Manual,Diesel,1686,110,Euro5,1342,Belgium
+4882344,"AUDI e-tron Sportback Audi e-tron Sportback S line 55 quattro 300 kW","Audi E-TRON",06/2020,56623,"direct no gearbox",Electric,0,408,N/A,12,Belgium
+4882345,"VOLKSWAGEN Multivan T7 Multivan Life 1.5 l 100 kW TSI GPF 7-speed DSG wheelbase 3 124 mm, short overhang","Volkswagen LT",08/2022,34917,Automatic,Petrol,1498,136,Euro6d,1532,Belgium
+4882362,"PEUGEOT Partner Partner 1.4i XR","Peugeot Partner",04/2007,102082,Manual,Petrol,1360,75,Euro4,1752,Belgium
+4882363,"AUDI A4 Audi A4 Attraction Saloon 2.0 TDI 110(150) kW(PS) 6-speed","Audi A4",03/2015,264028,"Manual gearbox",Diesel,1968,150,Euro6,1142,Belgium
+4882733,"VOLKSWAGEN Touran Touran Trendline BlueMotion Technology 1.6 l TDI 77 kW (105 PS) 6-speed","Volkswagen Touran",03/2012,223013,Manual,Diesel,1598,105,Euro5,1212,Belgium
+4882734,"VOLKSWAGEN Golf Sportsvan Golf Sportsvan Comfortline TSI ACT 96 kW (130 PS) 7-speed dual-clutch transmission DSG","Volkswagen Golf Sportsvan",02/2018,153648,Automatic,Petrol,1498,131,Euro6,1162,Belgium
+4883062,"OPEL Corsa Corsa 1.2i Enjoy","Opel Corsa",01/2012,97301,Manual,Petrol,1229,86,Euro5,1292,Belgium
+4883063,"VOLKSWAGEN Multivan T6.1 Multivan 2.0 TDi SCR 4Motion Highline DSG","Volkswagen LT",06/2020,58369,Automatic,Diesel,1968,199,Euro6d,1892,Belgium
+4883064,"AUDI A3 Sportback Sportback 1.9 TDi Ambition","Audi A3",01/2005,234146,"Manual gearbox",Diesel,1896,105,Euro4,1392,Belgium
+4883065,"SKODA Karoq AMB TS 81/1.0 M6F","Skoda Karoq",01/2021,34899,Manual,Petrol,999,110,Euro6d,1192,Belgium
+4883066,"SKODA Fabia AMBIENTE 1,2 HTP 44KW 60CV 5V","Skoda Fabia",03/2012,180658,Manual,Petrol,1198,60,Euro5,1282,Belgium
+4883068,"SKODA Fabia AMB TS70/1.0 M5F","Skoda Fabia",09/2017,30777,Manual,Petrol,999,95,Euro6,1012,Belgium
+4883069,"AUDI A4 Avant AV 2,0 TDIE 136 CV/PK 6V","Audi A4",03/2013,167613,"Manual gearbox",Diesel,1968,136,Euro5,1162,Belgium
+4883070,"VOLKSWAGEN Passat CL TDI CR 105HP BMT 6V","Volkswagen Passat",03/2011,161882,Manual,Diesel,1598,105,Euro5,1142,Belgium
+4883213,"HONDA Civic 1.8i Comfort","Honda Civic",05/2012,86056,Manual,Petrol,1798,141,Euro5,1372,Belgium
+4883215,"OPEL Corsa Corsa 1.2i Enjoy","Opel Corsa",04/2011,131808,Manual,Petrol,1229,86,Euro5,1242,Belgium
+4883217,"VOLKSWAGEN Polo Polo 1.2i 12v Base","Volkswagen Polo",03/2004,170139,Manual,Petrol,1198,65,Euro4,1422,Belgium
+4892818,"Volkswagen 1.0 80 Lounge Business VOLKSWAGEN Polo / 2017 / 5P / Berline 1.0 80 Lounge Business","Volkswagen Polo",09/2020,38087,Manual,Petrol,999,80,Euro6,1252,France
+4892817,"Peugeot Puretech 130 S&S Active Business 3008 Active Business 1.2 PureTech 130CV BVM6 E6","Peugeot 3008",02/2019,127006,Manual,Petrol,1199,131,Euro6,1242,France
+4892816,"Peugeot &BLUEHDI 100 S&S ALLURE BUSINESS 208 Allure Business 1.6 HDi 100CV BVM5 E6","Peugeot 208",05/2018,86874,Manual,Diesel,1560,99,Euro6,792,France
+4892815,"Peugeot BlueHDi 180 S&S EAT8 GT 5008 GT 2.0 HDi 180CV BVA8 E6d","Peugeot 5008",10/2020,66158,Automatic,Diesel,1997,177,Euro6,1662,France
+4892814,"Audi 1.5 35 TFSI 150 S TRONIC DESIGN LUXE Q3 35 TFSI Design luxe 1.5 150CV BVA7 E6dT","Audi Q3",07/2019,24986,Automatic,Petrol,1498,150,Euro6,1302,France
+4892813,"Renault Intens dCi 90 Captur Intens 1.5 dCi 90CV BVM5 E6","Renault Captur",09/2019,108432,Manual,Diesel,1461,90,Euro6,1112,France
+4892812,"Citroen BlueHDi 130 S&S BVM6 Business C4 Grand Picasso/Spacetourer Business 1.5 BlueHDi 130CV BVM6 E6d","Citroen Grand C4 Picasso / SpaceTourer",02/2021,123663,Manual,Diesel,1499,131,Euro6,1282,France
+4892811,"Peugeot BlueHDi 130 EAT8 S&S ACTIVE BUSINESS 308 SW Active Business 1.5 HDi 130CV BVA8 E6d","Peugeot 308",08/2020,94333,Automatic,Diesel,1499,131,Euro6,1252,France
+4892810,"Nissan 1.5 DCI 115 DCT Business Edition NISSAN Qashqai / 2017 / 5P / Crossover 1.5 DCI 115 DCT Business Edition","Nissan Qashqai",09/2019,119687,Automatic,Diesel,1461,116,Euro6,1092,France
+4892809,"Volvo T3 163 Geartronic 8 Inscription Luxe VOLVO XC40 / 2017 / 5P / SUV T3 163 Geartronic 8 Inscription Luxe","Volvo XC40",07/2019,87652,Automatic,Petrol,1477,163,Euro6,1472,France
+4892808,"Peugeot Taille XL 2.0 BHDI 145 S&S AUTO PEUGEOT Expert / 2016 / 4P / Fourgon tÃ´lÃ© Taille XL 2.0 BHDI 145 S&S AUTO","Peugeot Expert",02/2024,11716,Automatic,Diesel,1997,144,Euro6,1992,France
+4892807,"Renault Business Energy dCi 90 82g Clio IV Business 1.5 dCi 90CV BVM5 E6","Renault Clio",06/2018,21121,Manual,Diesel,1461,90,Euro6,822,France
+4892806,"Renault Zen TCe 100 Clio V Zen 1.0 TCe 100CV BVM5 E6dT","Renault Clio",12/2019,40766,Manual,Petrol,999,101,Euro6,1002,France
+4892805,"Mercedes CLA 180 d Business Line BA7 MERCEDES-BENZ CLA Coupe / 2019 / 4P / CoupÃ© CLA 180 d Business Line BA7","Mercedes CLA 180",06/2020,43609,Automatic,Diesel,1461,116,Euro6,1222,France
+4892804,"BMW sDrive16d xLine DKG7 SÃ©rie X1 sDrive16d xLine 1.5 115CV BVA7 E6dT","BMW X1",07/2019,124672,Automatic,Diesel,1496,116,Euro6,1122,France
+4892803,"Renault Zen TCe 100 RENAULT Clio / 2019 / 5P / Berline Zen TCe 100","Renault Clio",12/2019,38235,Manual,Petrol,999,101,Euro6,1002,France
+4892802,"Peugeot BLUEHDI 130 S&S EAT8 ALLURE PACK 2008 Allure Pack 1.5 HDi 130CV BVA8 E6d","Peugeot 2008",01/2022,46409,Automatic,Diesel,1499,131,Euro6,1252,France
+4892801,"Renault Business TCe 90 -21 Clio V Business 1.0 TCe 90CV BVM6 E6d","Renault Clio",05/2021,35860,Manual,Petrol,999,91,Euro6,1182,France
+4892800,"Toyota 2WD Dynamic Edition Business TOYOTA RAV4 Hybride 5p SUV 2WD Dynamic Edition Business","Toyota RAV 4",05/2018,101062,Automatic,Petrol,2494,196,Euro6,1162,France
+4892799,"Citroen BlueHDi 100 S&S BVM6 Feel Business R C3 SociÃ©tÃ© Feel Business R 1.5 BlueHDI 100CV BVM6 E6d","Citroen C3",09/2021,44773,Manual,Diesel,1499,102,Euro6,1112,France
+4892798,"Ford 1.5 TDCi 95 ch BVM6 S&S Trend Business FORD C-Max 5p Monovolume 1.5 TDCi 95 ch BVM6 S&S Trend Business","Ford C-Max",10/2018,43696,Manual,Diesel,1499,94,Euro6,1252,France
+4892797,"Peugeot PureTech 100 S&S ACTIVE BUSINESS 2008 Active Business 1.2 PureTech 100CV BVM6 E6d","Peugeot 2008",03/2021,60549,Manual,Petrol,1199,101,Euro6,1222,France
+4892796,"Volkswagen 1.5 TSI EVO United 7 places(SP) Touran United Start-Stop 1.5 TSI 150CV BVM6 E6d","Volkswagen Touran",01/2021,87256,Manual,Petrol,1498,150,Euro6,1502,France
+4892795,"Skoda 1.6 TDI 116ch DSG7 Business Karoq Business 1.6 TDI 115CV BVA7 E6dT","Skoda Karoq",07/2020,68468,Automatic,Diesel,1598,116,Euro6,1562,France
+4892794,"Peugeot 1.6 BLUEHDI 120 S&S ACTIVE BUSINESS 308 Active Business 1.6 Hdi 120CV BVM6 E6","Peugeot 308",08/2017,57352,Manual,Diesel,1560,120,Euro6,822,France
+4892793,"Peugeot 2.0 BLUEHDI 180 S&S EAT8 GT 3008 GT 2.0 HDi 180CV BVA8 E6dT","Peugeot 3008",03/2018,93261,Automatic,Diesel,1997,177,Euro6,1242,France
+4892792,"Citroen PureTech 110 S&S BVM6 Shine Business C3 Shine Business 1.2 PureTech 110CV BVM6 E6d","Citroen C3",02/2020,50296,Manual,Petrol,1199,110,Euro6,1042,France
+4892791,"Renault dCi 75 Clio IV Air 1.5 dCi 90CV BVM5 E6","Renault Clio",10/2019,71243,Manual,Diesel,1461,75,Euro6,1042,France
+4892790,"BMW  BMW SÃ©rie 1 / 2019 / 5P / Berline 116d Business Design","BMW 116",01/2023,26378,Manual,Diesel,1496,116,N/A,1212,France
+4892789,"Opel  Crossland X Business Elegance 1.2 Turbo 130CV BVA6 E6d","Opel Crossland X",08/2023,15998,Automatic,Petrol,1199,131,Euro6,1412,France
+4892788,"BMW  BMW SÃ©rie 1 / 2019 / 5P / Berline 116d DKG7 Business Design","BMW 116",12/2022,18394,Automatic,Diesel,1496,116,N/A,1222,France
+4892787,"Seat 1.0 TSI 115 S&S Style Business Ateca Style Business 1.0 TSI 115CV BVM6 E6dT","Seat Ateca",10/2020,53905,Manual,Petrol,999,116,Euro6,1482,France
+4892786,"MG Luxury 143ch MG ZS / 2020 / 5P / SUV Luxury 143ch","MG Other",07/2021,28037,Automatic,Electric,0,150,N/A,0,France
+4892785,"Seat 1.0 TSI 110 S&S Style Business Leon Business 1.0 TSI 110CV BVM6 E6d","Seat Leon",07/2022,35723,Manual,Petrol,999,110,Euro6,1252,France
+4892784,"Renault Business E-TECH 140 -21 Clio V Business 1.6 E-TECH Hybrid 140CV BVA6 E6d","Renault Clio",06/2021,84211,Automatic,"Hybrid (petrol / electric)",1598,91,Euro6,992,France
+4892783,"Renault  Megane IV Berline 5 ptes. Techno 1.5 dCi 115CV BVA7 E6d","Renault Megane",03/2023,33984,Automatic,Diesel,1461,116,Euro6,1212,France
+4892782,"Renault  Kadjar Evolution 1.5 dCi 115CV BVM7 E6d","Renault Kadjar",08/2022,50580,Automatic,Diesel,1461,116,Euro6,1342,France
+4892781,"Hyundai ELECTRIQUE 64kWh 204 ch Creative Kona Creative Electrique 2WD 64kWh BVA","Hyundai Kona",05/2021,79419,Automatic,Electric,0,204,Euro6,0,France
+4892780,"Renault  Kadjar Business Edition 1.5 dCi 115CV BVM7 E6d","Renault Kadjar",12/2021,59139,Automatic,Diesel,1461,116,Euro6,1342,France
+4892779,"Renault  Trafic Fourgon L2H1 3T Grand Confort 2.0 dCi 130CV BVM6 E6d","Renault Trafic",12/2021,82640,Manual,Diesel,1997,131,Euro6,1862,France
+4892778,"Renault  Captur II Evolution 1.6 E-TECH Hybrid 145CV BVA6 E6d","Renault Captur",01/2023,2838,Automatic,"Hybrid (petrol / electric)",1598,94,Euro6,1102,France
+4892777,"Renault  RENAULT MÃ©gane Berline 5p Berline Intens Blue dCi 115","Renault Megane",04/2023,23494,Manual,Diesel,1461,114,E62,1022,France
+4892776,"Opel  Grandland X Business Elegance 1.5 130CV BVA8 E6d","Opel Grandland X",09/2022,54974,Automatic,Diesel,1499,131,Euro6,1362,France
+4892775,"Kia 1.6 T-GDI 265 PHEV AUTO 4WD ACTIVE BUSIN KIA Sportage / 2021 / 5P / SUV 1.6 T-GDI 265 PHEV AUTO 4WD ACTIVE BUSIN","Kia Sportage",05/2022,36971,Automatic,"Hybrid (petrol / electric)",1598,179,Euro6,252,France
+4892774,"Citroen BlueHDi 100 S&S BVM Feel C3 Feel 1.6 BlueHDi 100CV BVM5 E6","Citroen C3",05/2018,119920,Manual,Diesel,1560,99,Euro6,952,France
+4892773,"Citroen BlueHDi 120 S&S BVM6 Millenium(SP) CITROEN C4 / 2010 / 5P / Berline BlueHDi 120 S&S BVM6 Millenium(SP)","Citroen C4",10/2017,111941,Manual,Diesel,1560,120,Euro6,952,France
+4892772,"Volkswagen 2.0 TDI 140 35 L4H3 Crafter Fourgon Kasten 35 lang mit Hochdach FWD 2.0 140CV BVM6","Volkswagen Crafter",07/2020,82983,Manual,Diesel,1968,140,Euro6,2012,France
+4892771,"Renault  Megane IV Berline 5 ptes. Business 1.5 dCi 115CV BVM6 E6d","Renault Megane",03/2022,56649,Manual,Diesel,1461,116,Euro6,1212,France
+4892770,"Renault CC Cf Trac F3500 L2 dCi 110 E6 Master Chassis Cabine L2H1 3 5t 2.3 dCi 110 / GRUE","Renault Master",04/2018,17469,Manual,Diesel,2299,110,Euro6,2042,France
+4892769,"Ford 2.0 ECOB 105PS 310 L2H2 FWD TREND BUSINE Transit Fourgon 310 L2 Trend 2.0 105CV BVM6 E6","Ford Transit",06/2019,101432,Manual,Diesel,1995,105,Euro6,1802,France
+4892768,"Renault Grand Vol ExtraR-Link dCi 90 Kangoo Express Maxi Extra 1.5 dCi 90CV BVM5 E6","Renault Kangoo",05/2019,122867,Manual,Diesel,1461,90,Euro6,1232,France
+4892767,"Peugeot 2.0 BLUEHDI 130 PREMIUM PA 333 L2H2 PEUGEOT Boxer VU 4p Fourgon 2.0 BLUEHDI 130 PREMIUM PA 333 L2H2","Peugeot Boxer",06/2018,39738,Manual,Diesel,1997,131,Euro6,1632,France
+4892766,"Volkswagen 1.0 TSI 95 Confort Busi StÃ© RÃ©versible VOLKSWAGEN Polo VU 5p Berline 1.0 TSI 95 Confort Busi StÃ© RÃ©versible","Volkswagen Polo",07/2019,76031,Manual,"Natural Gas",999,90,N/A,872,France
+4892765,"Peugeot Puretech 82 EU6.c S&S PREM PACK 208 Affaire Premium Pack 1.2 80CV BVM5 E6dT","Peugeot 208",02/2019,37701,Manual,Petrol,1199,83,Euro6,1082,France
+4892764,"Peugeot BlueHDi 130 S&S EAT8 ALLURE BUSINESS 508 Allure Business 1.5 HDi 130CV BVA8 E6d","Peugeot 508",09/2020,94824,Automatic,Diesel,1499,131,Euro6,1242,France
+4892763,"Citroen M 650kg BlueHDi 130 S&S EAT8 Driver Berlingo Kasten Driver M 650 1.5 BlueHDi 130CV BVA8 E6dT","Citroen Berlingo",02/2019,102724,Automatic,Diesel,1499,131,Euro6,1132,France
+4892762,"Peugeot BLUEHDI 75 STANDARD 650KG PREMIUM Partner Premium L1 1.6 HDi 75CV BVM5 E6","Peugeot Partner",03/2019,102599,Manual,Diesel,1560,75,Euro6,1142,France
+4892761,"Fiat 3.0 C H1 2.0 Multijet 115 Pack Pro Nav FIAT Ducato VU 4p Fourgon 3.0 C H1 2.0 Multijet 115 Pack Pro Nav","Fiat Ducato",08/2019,108056,Manual,Diesel,1956,116,Euro6,1572,France
+4892760,"Citroen 35 L2 BlueHDi 130 BVM6 Confort CITROEN Jumper Benne SC VU 2p Pick-up 35 L2 BlueHDi 130 BVM6 Confort","Citroen Jumper",12/2018,42352,Manual,Diesel,1997,131,Euro6,1732,France
+4895406,"Peugeot 1.5 BLUEHDI 100 S&S ACTIVE BUSINESS 2008 Active Business 1.5 HDi 100CV BVM6 E6d","Peugeot 2008",12/2020,112564,Manual,Diesel,1499,102,Euro6,1172,France
+4895404,"Hyundai 1.6 CRDI 136 DCT-7 N LINE Tucson N-Line 2WD 1.6 CRDi 135CV BVA7 E6dT","Hyundai Tucson",11/2019,74925,Automatic,Diesel,1598,136,Euro6,1192,France
+4895402,"Mercedes CLA 200 d AMG Line BA8 MERCEDES-BENZ CLA Shooting Brake / 2019 / 5P / Break CLA 200 d AMG Line BA8","Mercedes CLA 200",05/2020,93971,Automatic,Diesel,1950,150,Euro6,1312,France
+4895400,"Renault Business SCe 65 -21 Clio V Business 1.0 SCe 65CV BVM5 E6d","Renault Clio",03/2021,60164,Manual,Petrol,999,67,Euro6,1192,France
+4895399,"Renault Business Energy dCi 90 EDC Captur Business 1.5 dCi 90CV BVA6 E6","Renault Captur",12/2017,125365,Automatic,Diesel,1461,90,Euro6,1012,France
+4895397,"Volkswagen 1.5 TSI 150 ACT OPF DSG7 SW LOUNGE VOLKSWAGEN Passat SW / 2019 / 5P / Break 1.5 TSI 150 ACT OPF DSG7 SW LOUNGE","Volkswagen Passat",12/2020,46961,Automatic,Petrol,1498,150,Euro6,1482,France
+4895395,"Mini Cooper SE ALL4 125+95ch BVA6 MINI Countryman / 2020 / 5P / Crossover Cooper SE ALL4 125+95ch BVA6","Mini One Countryman",02/2021,15251,Automatic,"Hybrid (petrol / electric)",1499,125,Euro6,402,France
+4895394,"Citroen BlueHDi 100 S&S BVM Feel Nav CITROEN C3 SociÃ©tÃ© / 2020 / 5P / Berline / VU BlueHDi 100 S&S BVM Feel Nav","Citroen C3",03/2021,79853,Manual,Diesel,1499,102,Euro6,1112,France
+4895393,"Renault Zen TCe 100 RENAULT Clio / 2019 / 5P / Berline Zen TCe 100","Renault Clio",12/2019,36108,Manual,Petrol,999,101,Euro6,1002,France
+4895392,"Peugeot 1.6 BLUEHDI 120 EAT6 ALLURE 3008 Allure 1.6 HDi 120CV BVA6 E6","Peugeot 3008",02/2018,104413,Automatic,Diesel,1560,120,Euro6,1082,France
+4895390,"Skoda 2.0 TDI 116 DSG7 Business Octavia Break Business 2.0 TDI 115CV BVA7 E6d","Skoda Octavia",07/2022,109634,Automatic,Diesel,1968,116,Euro6,952,France
+4895389,"Volkswagen 2.0 TDI 150 DSG7 Carat BMT Tiguan Carat Edition BMT 2.0 TDI 150CV BVA7 E6","Volkswagen Tiguan",05/2017,128824,Automatic,Diesel,1968,150,Euro6,1292,France
+4895387,"Peugeot 2.0 BlueHDi 150 S&S EAT6 Allure 308 Allure 2.0 HDi 150CV BVA6 E6","Peugeot 308",10/2016,120491,Automatic,Diesel,1997,150,Euro6,1022,France
+4895386,"Peugeot Puretech 130 S&S EAT8 ACTIVE BUSINESS 5008 Active Business 1.2 PureTech 130CV BVA8 E6d","Peugeot 5008",01/2020,69717,Automatic,Petrol,1199,131,Euro6,1092,France
+4895384,"Volkswagen 2.0 TDi 150 DSG7 L1H1 Business VOLKSWAGEN Transporter / 2019 / 4P / Fourgon tÃ´lÃ© 2.0 TDi 150 DSG7 L1H1 Business","Volkswagen T5 Transporter",07/2021,84446,Automatic,Diesel,1968,150,Euro6,1972,France
+4895382,"Renault Initiale Paris Ener dCi 160 TTb EDC 5pl Espace V Initiale Paris 1.6 dCi 160CV BVA6 E6","Renault Espace",04/2016,119231,Automatic,Diesel,1598,160,Euro6,1202,France
+4895381,"Peugeot BlueHDi 130 S&S EAT8 GT LINE 5008 GT Line 1.5 HDi 130CV BVA8 E6dT","Peugeot 5008",01/2020,85182,Automatic,Diesel,1499,131,Euro6,982,France
+4895380,"Renault Intens TCe 160 FAP Kadjar Intens 1.2 TCe 130CV BVM6 E6","Renault Kadjar",04/2019,67471,Manual,Petrol,1332,159,Euro6,1352,France
+4895378,"Audi 20 TDI 150 S TRONIC DESIGN LUXE A3 Sportback 35 TDI design 2.0 TDI 150CV BVA7 E6dT","Audi A3",03/2019,84686,Automatic,Diesel,1968,150,Euro6,1122,France
+4895377,"Peugeot Puretech 82 S&S ACTIVE BUSINESS 208 Active Business 1.2 80CV BVM5 E6dT","Peugeot 208",12/2019,21090,Manual,Petrol,1199,83,Euro6,1082,France
+4895375,"Citroen PureTech 82 BVM Feel Business CITROEN C3 5p Berline PureTech 82 BVM Feel Business","Citroen C3",03/2018,16067,Manual,Petrol,1199,82,Euro6,1092,France
+4895374,"Seat 1.0 TSI 115 S&S Style Business Ateca Style Business 1.0 TSI 115CV BVM6 E6dT","Seat Ateca",12/2019,69531,Manual,Petrol,999,116,Euro6,1102,France
+4895373,"BMW xDrive20d M Sport BVA8 SÃ©rie X1 xDrive 20 d M Sport 2.0 190CV BVA8 E6d","BMW X1",03/2022,57921,Automatic,Diesel,1995,190,Euro6,1482,France
+4895372,"Seat 1.0 TSI 110 S&S Style Business Leon Style 1.0 TSI 110CV BVM6 E6d","Seat Leon",12/2021,52653,Manual,Petrol,999,110,Euro6,1252,France
+4895370,"BMW  BMW SÃ©rie 1 5p Berline 116d BVA8 Business Design","BMW 116",10/2022,28935,Automatic,Diesel,1496,116,N/A,1222,France
+4895369,"BMW  BMW SÃ©rie 1 / 2019 / 5P / Berline 116d Business Design","BMW 116",07/2023,9817,Manual,Diesel,1496,116,N/A,1212,France
+4895367,"Renault  Trafic Fourgon L2H1 1300 Confort 1.6 dCi 120CV BVM6 E6dT","Renault Trafic",08/2021,40774,Manual,Diesel,1997,120,Euro6,1542,France
+4895366,"Opel  Grandland X Business Elegance 1.5 130CV BVA8 E6d","Opel Grandland X",12/2022,40334,Automatic,Diesel,1499,131,Euro6,1362,France
+4895364,"Renault  Kadjar Business Edition 1.5 dCi 115CV BVM7 E6d","Renault Kadjar",12/2021,113379,Automatic,Diesel,1461,116,Euro6,1342,France
+4895363,"Peugeot  208 Signature 1.2 PureTech 80CV BVM5 E6dT","Peugeot 208",10/2019,40726,Manual,Petrol,1199,83,Euro6,1082,France
+4895362,"Peugeot 1.6 HYBRID 225 E-EAT8 GT Pack PEUGEOT 3008 / 2020 / 5P / SUV 1.6 HYBRID 225 E-EAT8 GT Pack","Peugeot 3008",03/2021,101996,Automatic,"Hybrid (petrol / electric)",1598,181,Euro6,312,France
+4895360,"Nissan  NISSAN Qashqai / 2021 / 5P / Crossover 1.3 MHEV 158ch Xtronic N-Style(SP)","Nissan Qashqai",01/2022,34367,Automatic,Petrol,1332,158,N/A,0,France
+4895359,"Renault  Megane IV Berline 5 ptes. Business 1.5 dCi 115CV BVM6 E6d","Renault Megane",06/2022,28395,Manual,Diesel,1461,116,Euro6,1212,France
+4895358,"Ford 1.0 ECOBOOST 95PS CONNECT BUSINESS NAV Fiesta Cool&Connect 1.0 EcoBoost 95CV BVM6 E6dT","Ford Fiesta",02/2020,64668,Manual,Petrol,999,95,Euro6,942,France
+4895357,"Renault  RENAULT MÃ©gane Berline 5p Berline Intens Blue dCi 115 EDC","Renault Megane",05/2023,26261,Automatic,Diesel,1461,114,E62,1082,France
+4895355,"Renault  Captur II Intens 1.5 dCi 115CV BVA7 E6dT","Renault Captur",09/2020,49058,Automatic,Diesel,1461,116,Euro6,1292,France
+4895354,"Citroen BlueHDi 100 S&S BVM Feel C3 Feel 1.6 BlueHDi 100CV BVM5 E6","Citroen C3",05/2018,115199,Manual,Diesel,1560,99,Euro6,952,France
+4895353,"Citroen PureTech 130 S&S EAT8 Shine Pack C4 Grand Picasso/Spacetourer Shine Pack 1.2 PureTech 130CV BVA8 7 Sieges E6d","Citroen Grand C4 Picasso / SpaceTourer",08/2020,105401,Automatic,Petrol,1199,131,Euro6,1542,France
+4895351,"Renault Business Energy dCi 90 ecoÂ² 82g Clio IV Business 1.5 dCi 90CV BVM5 E6","Renault Clio",03/2017,119369,Manual,Diesel,1461,90,Euro6,822,France
+4895350,"Renault Cab Appro Gd Confort Energy dCi 90 E6 Kangoo Express Maxi Grand Confort - Cab. Appr. 1.5 dCi 90CV BVM5 E6","Renault Kangoo",03/2018,25866,Manual,Diesel,1461,90,Euro6,1232,France
+4895349,"Peugeot 2.0 BLUEHDI 110 PREMIUM 333 L1H1 PEUGEOT Boxer VU 4p Fourgon 2.0 BLUEHDI 110 PREMIUM 333 L1H1","Peugeot Boxer",04/2018,75111,Manual,Diesel,1997,110,Euro6,1582,France
+4895347,"Fiat 30 C H1 20 Multijet 115 Pack Pro Nav FIAT Ducato VU 4p Fourgon 30 C H1 20 Multijet 115 Pack Pro Nav","Fiat Ducato",03/2018,70915,Manual,Diesel,1956,116,Euro6,1572,France
+4895346,"Citroen BlueHDi 100 S&S BVM6 Feel Business C4 Cactus Feel Business 1.5 BlueHDi 100CV BVM6 E6d","Citroen C4 Cactus",07/2020,124832,Manual,Diesel,1499,102,Euro6,1192,France
+4895345,"Renault Extra R-Link - Blue dCi 95 Kangoo II Express Extra 1.5 dCi 95CV BVM6 E6dT","Renault Kangoo",12/2020,29176,Manual,Diesel,1461,95,Euro6,1482,France
+4895343,"Ford 2.0 ECOB 105 310 L3H2 FWD TREND BUSINESS Transit Kastenwagen 310 L3 Trend 2.0 105CV BVM6 E6","Ford Transit",12/2019,68448,Manual,Diesel,1995,105,Euro6,1802,France
+4895342,"Citroen 4-35 L3 BlueHDi 160 BVM6 Confort CITROEN Jumper ChÃ¢ssis Cabine SC VU 2p ChÃ¢ssis cabine 4-35 L3 BlueHDi 160 BVM6 Confort","Citroen Jumper",11/2018,94057,Manual,Diesel,1997,163,Euro6,1732,France
+4895341,"Renault Air Energy dCi 75 Clio IV Air 1.5 dCi 75CV BVM5 E6","Renault Clio",03/2018,86502,Manual,Diesel,1461,75,Euro6,852,France
+4895340,"Citroen VTi 95 BVM Business M Berlingo Business L1 1.6 VTI 100","Citroen Berlingo",07/2018,105614,Manual,Petrol,1598,98,Euro6,1502,France
+4895338,"Renault Gd Confort Energy dCi 90 RENAULT Kangoo Express VU 4p Fourgonnette Gd Confort Energy dCi 90","Renault Kangoo",03/2016,98620,Manual,Diesel,1461,90,Euro5,1192,France
+4895337,"Peugeot BLUEHDI 100 S&S Allure Business PEUGEOT 208 / 2019 / 5P / Berline BLUEHDI 100 S&S Allure Business","Peugeot 208",09/2021,27096,Manual,Diesel,1499,102,Euro6,1072,France
+4888870,"SEAT Leon STYL 1,6L ECOM 105HP 5V CR","Seat Leon",05/2010,124470,Manual,Diesel,1598,105,Euro5,992,Belgium
+4888871,"SKODA Superb Combi SUP.COM Grt AMB TS 92/1.4 M6F","Skoda Superb",06/2016,104508,Manual,Petrol,1395,125,Euro6,1262,Belgium
+4889350,"LAND ROVER Range Rover Evoque 2.0 TD4 4WD Pure","Land Rover Range Rover Evoque",10/2016,55000,Manual,Diesel,1999,150,Euro6,1252,Belgium
+4889487,"SKODA Yeti OUTD AMB OTS81/1.2 A7F","Skoda Yeti",01/2017,92972,Automatic,Petrol,1197,110,Euro6,1282,Belgium
+4889489,"SKODA Kamiq Kamiq 1.0 TSI Style DSG","Skoda Kamiq",02/2022,10569,Automatic,Petrol,999,110,N/A,1092,Belgium
+4889620,"SKODA Superb Combi COM ELEG GL 1,6 CR TDI 77KW 5V","Skoda Superb",04/2011,234340,Manual,Diesel,1598,105,Euro5,1142,Belgium
+4889622,"VOLKSWAGEN Polo TREND 1,2L 60CV/PK 5V","Volkswagen Polo",04/2011,70044,Manual,Petrol,1198,60,Euro5,1282,Belgium
+4889624,"AUDI Q3 Audi Q3 advanced 40 TFSI quattro 140(190) kW(PS) S tronic","Audi Q3",02/2020,40894,Automatic,Petrol,1984,190,Euro6d-TEMP,1652,Belgium
+4890009,"BMW 318 Dsl 318 d","BMW 318",01/2010,199757,Manual,Diesel,1995,136,Euro5,1232,Belgium
+4890012,"SKODA Octavia Combi O COMBI A5 AMBI 1,6CR 77KW 105CV 5V DPF","Skoda Octavia",01/2012,317991,Manual,Diesel,1598,105,Euro5,1092,Belgium
+4890780,"TOYOTA Yaris 1.5i Dual VVT-iE Active","Toyota Yaris",04/2018,48290,Manual,Petrol,1496,111,Euro6,1092,Belgium
+4890804,"AUDI Q3 Sportback Audi Q3 Sportback 35 TFSI 110(150) kW(PS) S tronic","Audi Q3",01/2020,24673,Automatic,Petrol,1498,150,Euro6d,1352,Belgium
+4887717,"VOLKSWAGEN Golf VII R Golf R 4MOTION 2.0 l TSI GPF 221 kW (300 PS) 7-speed dual-clutch transmission DSG","Volkswagen Golf",07/2020,49412,Automatic,Petrol,1984,300,Euro6d-TEMP,1622,Belgium
+4887714,"AUDI A4 Avant 35 TDi Sport S tronic (EU6d-TEMP)","Audi A4",04/2019,75030,Automatic,Diesel,1968,150,Euro6d,1152,Belgium
+4887713,"AUDI Q2 Audi Q2 35 TFSI 110(150) kW(PS) S tronic","Audi Q2",07/2019,67715,Automatic,Petrol,1498,150,Euro6d-TEMP,1212,Belgium
+4887870,"AUDI A5 Sportback Audi A5 Sportback sport 45 TFSI 180(245) kW(PS) S tronic","Audi A5",03/2019,100353,Automatic,Petrol,1984,245,Euro6d-TEMP,1492,Belgium
+4888544,"VOLKSWAGEN Sharan Sharan Highline 2.0 l TDI SCR 110 kW (150 PS) 6-speed dual-clutch transmission DSG","Volkswagen Sharan",01/2020,88290,Automatic,Diesel,1968,150,Euro6d,1402,Belgium
+4888662,"VOLKSWAGEN Touareg Touareg V6 TDI BlueMotion Technology 3.0 l V6 TDI SCR 150 kW (204 PS) 8-speed automatic (tiptronic)","Volkswagen Touareg",02/2015,119507,Automatic,Diesel,2967,204,Euro6,1732,Belgium
+4888869,"AUDI A1 Sportback Audi A1 Attraction Sportback 1.6 TDI 66(90) kW(PS) 5-speed","Audi A1",06/2013,138086,"Manual gearbox",Diesel,1598,90,Euro5,992,Belgium
+4887415,"PEUGEOT 2008 1.2 PureTech Allure S&S","Peugeot 2008",02/2018,64910,Manual,Petrol,1199,110,Euro6,1032,Belgium
+4887416,"VOLKSWAGEN ID.4 Pro 1-speed automatic transmission","Volkswagen ID.4",07/2022,21328,Automatic,Electric,0,174,N/A,12,Belgium
+4887417,"SEAT Tarraco TARRACO2.0TDI XCELL 5d 140 DE5 A7A","Seat Tarraco",01/2020,66858,Automatic,Diesel,1968,190,Euro6d,1472,Belgium
+4887514,"AUDI A3 Sportback Audi A3 Sportback sport 30 TFSI 85(116) kW(PS) S tronic","Audi A3",06/2019,98679,Automatic,Petrol,999,116,Euro6d-TEMP,1172,Belgium
+4887513,"MERCEDES-BENZ B 180 CDI","Mercedes B 180",01/2013,194473,Automatic,Diesel,1796,109,Euro5,1122,Belgium
+4887511,"SEAT Tarraco TARRACO1.5TSI XCELL 5d 110 DS9 A7","Seat Tarraco",03/2020,44976,Automatic,Petrol,1498,150,Euro6d,1382,Belgium
+4887510,"VOLKSWAGEN Caddy Caddy 1.4 TGI Trendline CNG DSG","Volkswagen Caddy",07/2016,90171,Automatic,"Natural Gas",1395,110,Euro6,1202,Belgium
+4887509,"SKODA Fabia ACTIVE 1,2 HTP 44KW 60CV 5V","Skoda Fabia",04/2013,119999,Manual,Petrol,1198,60,Euro5,1282,Belgium
+4887782,"PEUGEOT 2008 1.2","Peugeot 2008",06/2022,83263,Manual,Petrol,0,101,Euro6,1132,Netherlands
+4887781,"PEUGEOT 208 1.2","Peugeot 208",06/2022,34599,Manual,Petrol,0,102,Euro6,1032,Netherlands
+4887780,"PEUGEOT 2008 1.2","Peugeot 2008",05/2022,34307,Manual,Petrol,0,101,Euro6,1132,Netherlands
+4887779,"PEUGEOT 3008 1.5 BlueHDi","Peugeot 3008",09/2020,137152,Manual,Diesel,0,131,Euro6,1012,Netherlands
+4887778,"PEUGEOT 3008 1.2","Peugeot 3008",04/2022,60138,Manual,Petrol,0,131,Euro6,1242,Netherlands
+4887776,"PEUGEOT 508 1.5 BlueHDI","Peugeot 508",07/2020,163815,Automatic,Diesel,0,131,Euro6,992,Netherlands
+4887775,"PEUGEOT 5008 1.6","Peugeot 5008",04/2019,172498,Automatic,Petrol,0,177,Euro6,1282,Netherlands
+4887774,"PEUGEOT 5008 1.2","Peugeot 5008",06/2019,157300,Automatic,Petrol,0,131,Euro6,1202,Netherlands
+4887773,"OPEL Corsa 1.2","Opel Corsa",05/2022,79117,Manual,Petrol,0,101,Euro6,1032,Netherlands
+4887771,"PEUGEOT 308 SW 1.2","Peugeot 308",03/2019,115821,Manual,Petrol,0,110,Euro6,1122,Netherlands
+4887770,"Polestar 2 Long Range D","Polestar Other",12/2020,142288,Automatic,Electric,0,408,Z,0,Netherlands
+4887769,"RENAULT CLIO 1.3 T","Renault Clio",03/2020,185423,Automatic,Petrol,0,131,Euro6,1182,Netherlands
+4887767,"RENAULT KADJAR 1.3 T","Renault Kadjar",04/2020,89463,Manual,Petrol,0,140,Euro6,1272,Netherlands
+4887766,"SEAT Ibiza 1.0","Seat Ibiza",05/2022,47744,Manual,Petrol,0,95,Euro6,1042,Netherlands
+4887765,"SEAT Tarraco 1.5 T","Seat Tarraco",06/2019,69290,Manual,Petrol,0,150,Euro6,1472,Netherlands
+4887764,"SEAT Leon ST 1.5 T","Seat Leon",11/2018,181389,Automatic,Petrol,0,150,Euro6,1182,Netherlands
+4887763,"SEAT Arona 1.0 T","Seat Arona",05/2019,158567,Automatic,Petrol,0,116,Euro6,1112,Netherlands
+4887761,"SKODA Octavia Combi 2.0 TDI","Skoda Octavia",05/2019,145862,Automatic,Diesel,0,150,Euro6,1172,Netherlands
+4887760,"SKODA Kodiaq 1.5 T","Skoda Kodiaq",06/2019,124816,Automatic,Petrol,0,150,Euro6,1392,Netherlands
+4887759,"SKODA Fabia Combi 1.0 T","Skoda Fabia",08/2021,48838,Manual,Petrol,0,95,Euro6,1052,Netherlands
+4887758,"SKODA Kodiaq 1.5 T","Skoda Kodiaq",07/2019,126946,Automatic,Petrol,0,150,Euro6,1392,Netherlands
+4887756,"SKODA Karoq 1.0 T","Skoda Karoq",10/2020,95386,Manual,Petrol,0,116,Euro6,1162,Netherlands
+4887755,"SKODA Superb Combi 1.5 T","Skoda Superb",07/2019,155311,Automatic,Petrol,0,150,Euro6,1252,Netherlands
+4887754,"SKODA Octavia Combi 1.0 T","Skoda Octavia",05/2020,98447,Manual,Petrol,0,116,Euro6,1112,Netherlands
+4887753,"SKODA Kamiq 1.0 T","Skoda Kamiq",07/2020,91929,Automatic,Petrol,0,116,Euro6,1112,Netherlands
+4887752,"Tesla Model 3 Long R","Tesla Model 3",06/2019,126286,Automatic,Electric,0,286,Z,0,Netherlands
+4887751,"Tesla Model 3 Long","Tesla Model 3",06/2019,157082,Automatic,Electric,0,351,Z,0,Netherlands
+4887749,"Tesla Model 3 Long","Tesla Model 3",06/2019,160291,Automatic,Electric,0,351,Z,0,Netherlands
+4887748,"Tesla Model 3 Long","Tesla Model 3",06/2019,151790,Automatic,Electric,0,351,Z,0,Netherlands
+4887747,"Tesla Model 3 Long","Tesla Model 3",11/2019,181348,Automatic,Electric,0,455,Z,0,Netherlands
+4887746,"Tesla Model 3 Long R","Tesla Model 3",06/2019,74815,Automatic,Electric,0,287,Z,0,Netherlands
+4887745,"TOYOTA Corolla Touring Sports 1.8","Toyota Corolla",12/2021,71457,Automatic,"Hybrid (petrol / electric)",0,98,Euro6,782,Netherlands
+4887744,"TOYOTA Yaris 1.5","Toyota Yaris",06/2022,48140,Automatic,"Hybrid (petrol / electric)",0,92,Euro6,0,Netherlands
+4887742,"TOYOTA Aygo 1.0 VVT-i",Toyota,09/2021,40618,Manual,Petrol,0,72,Euro6,862,Netherlands
+4887741,"TOYOTA Corolla Touring Sports 1.8","Toyota Corolla",10/2020,48483,Automatic,"Hybrid (petrol / electric)",0,98,Euro6,852,Netherlands
+4887740,"VOLKSWAGEN Passat Variant 1.5 T","Volkswagen Passat Variant",07/2019,107826,Automatic,Petrol,0,150,Euro6,1262,Netherlands
+4887739,"VOLKSWAGEN Golf Variant 1.0 T","Volkswagen Golf",06/2020,135033,Manual,Petrol,0,116,Euro6,1112,Netherlands
+4887738,"VOLKSWAGEN Tiguan Allspace 1.5 T","Volkswagen Tiguan Allspace",08/2019,130230,Automatic,Petrol,0,150,Euro6,1432,Netherlands
+4887736,"VOLKSWAGEN T-Cross 1.0 T","Volkswagen T-Cross",10/2019,68350,Automatic,Petrol,0,116,Euro6,1142,Netherlands
+4887735,"VOLKSWAGEN Passat Variant 2.0 TDI","Volkswagen Passat Variant",05/2019,149783,Automatic,Diesel,0,150,Euro6,1132,Netherlands
+4887734,"VOLKSWAGEN GOLF 1.0 T","Volkswagen Golf",11/2018,170025,Manual,Petrol,0,110,Euro6,1132,Netherlands
+4887731,"VOLVO XC40 2.0 T","Volvo XC40",04/2019,126496,Automatic,Petrol,0,190,Euro6,1542,Netherlands
+4887730,"VOLVO V90 2.0 T","Volvo V90",04/2020,73271,Automatic,Petrol,0,190,Euro6,1582,Netherlands
+4887728,"VOLVO V40 Cross Country 1.5 T","Volvo V40 Cross Country",09/2019,14945,Automatic,Petrol,0,152,Euro6,1342,Netherlands
+4887727,"VOLVO V60 2.0 T6 R","Volvo V60",07/2020,196784,Automatic,"Hybrid (petrol / electric)",0,253,Euro6,362,Netherlands
+4887726,"VOLVO V60 2.0 T","Volvo V60",05/2019,145370,Automatic,"Hybrid (petrol / electric)",0,303,Euro6,442,Netherlands
+4887724,"VOLVO V60 2.0 T","Volvo V60",05/2019,127072,Automatic,"Hybrid (petrol / electric)",0,303,Euro6,442,Netherlands
+4887723,"VOLVO V60 2.0","Volvo V60",01/2021,150362,Automatic,Petrol,0,163,Euro6,1392,Netherlands
+4887722,"VOLVO V60 2.0 D","Volvo V60",08/2018,128011,Automatic,Diesel,0,190,Euro6,1192,Netherlands
+4887721,"VOLVO V60 2.0 T","Volvo V60",06/2019,74962,Automatic,"Hybrid (petrol / electric)",0,303,Euro6,442,Netherlands
+4887720,"VOLVO V60 2.0 D","Volvo V60",03/2020,179491,Automatic,Diesel,0,190,Euro6,1192,Netherlands
+4887718,"VOLVO V60 2.0 T","Volvo V60",10/2019,114377,Automatic,"Hybrid (petrol / electric)",0,303,Euro6,392,Netherlands
+4887716,"VOLVO V40 2.0 D","Volvo V40",01/2020,90435,Automatic,Diesel,0,150,Euro6,1182,Netherlands
+4887784,"OPEL Corsa 1.2","Opel Corsa",04/2022,61249,Manual,Petrol,0,101,Euro6,1032,Netherlands
+4887785,"OPEL Grandland X 1.5 CDTi","Opel Grandland X",06/2019,152501,Automatic,Diesel,0,131,Euro6,1112,Netherlands
+4887786,"OPEL Corsa 1.2","Opel Corsa",05/2022,22318,Manual,Petrol,0,101,Euro6,1032,Netherlands
+4887787,"OPEL CORSA-E Elegance","Opel Corsa",03/2022,37104,Automatic,Electric,0,136,Z,0,Netherlands
+4887789,"OPEL Ampera-e Business","Opel Ampera-e",02/2020,59195,Automatic,Electric,0,204,Z,0,Netherlands
+4887790,"OPEL Corsa 1.2","Opel Corsa",06/2020,36331,Manual,Petrol,0,101,Euro6,962,Netherlands
+4887791,"OPEL Vivaro Combi 1.6 CDTI","Opel Vivaro",03/2019,120623,Manual,Diesel,0,95,Euro6,1602,Netherlands
+4887792,"NISSAN Qashqai 1.5 dCi","Nissan Qashqai",04/2019,129768,Manual,Diesel,0,116,Euro6,1002,Netherlands
+4887793,"Mini Mini 2.0","Mini Other",05/2020,162081,Automatic,Petrol,0,192,Euro6,1222,Netherlands
+4887795,"Mini Mini Clubman 1.5","Mini Other",05/2020,102290,Automatic,Petrol,0,136,Euro6,1202,Netherlands
+4887796,"Mini Mini Clubman 1.5","Mini Other",01/2019,140314,Automatic,Petrol,0,136,Euro6,1302,Netherlands
+4887797,"MERCEDES-BENZ C-klasse Estate 160","Mercedes C-Class",06/2020,117956,Automatic,Petrol,0,129,Euro6,1472,Netherlands
+4887799,"MERCEDES-BENZ CLA-klasse 250","Mercedes CLA-Class",03/2020,144885,Automatic,Petrol,0,224,Euro6,1412,Netherlands
+4887801,"MERCEDES-BENZ C-klasse Estate 220 d","Mercedes E 220",01/2020,140405,Automatic,Diesel,0,194,Euro6,1172,Netherlands
+4887802,"Mazda CX-3 1.8","Mazda CX-3",11/2019,159480,Manual,Diesel,0,116,Euro6,1142,Netherlands
+4887804,"Mazda 3 2.0","Mazda 3",06/2020,27201,Automatic,Petrol,0,122,Euro6,1222,Netherlands
+4887805,"KIA PRO CEED 1.0 T","Kia cee'd",02/2021,136722,Manual,Petrol,0,120,Euro6,0,Netherlands
+4887806,"KIA ceed sportswagon 1.0 T","Kia cee'd",05/2022,63291,Manual,Petrol,0,120,Euro6,0,Netherlands
+4887808,"KIA ceed sportswagon 1.0 T","Kia cee'd",05/2022,68618,Manual,Petrol,0,120,Euro6,0,Netherlands
+4887809,"KIA ceed sportswagon 1.0 T","Kia cee'd",06/2022,66410,Manual,Petrol,0,120,Euro6,0,Netherlands
+4887810,"KIA Niro 1.6","Kia Niro",10/2019,119601,Automatic,"Hybrid (petrol / electric)",0,105,Euro6,992,Netherlands
+4887811,"KIA ceed sportswagon 1.0 T","Kia cee'd",11/2019,142286,Manual,Petrol,0,120,Euro6,1152,Netherlands
+4887812,"KIA Niro 1.6","Kia Niro",06/2020,120323,Automatic,"Hybrid (petrol / electric)",0,105,Euro6,862,Netherlands
+4887813,"KIA e-Niro ExecutiveLine","Kia Niro",09/2019,163821,Automatic,Electric,0,204,Z,0,Netherlands
+4887815,"KIA Picanto 1.0 D","Kia Picanto",01/2022,21416,Manual,Petrol,0,67,Euro6,952,Netherlands
+4887816,"KIA ceed sportswagon 1.0 T","Kia cee'd",06/2022,51471,Manual,Petrol,0,120,Euro6,0,Netherlands
+4887817,"HYUNDAI NEXO FCEV Plus Pack","Hyundai Nexo",12/2020,74333,Automatic,Waterstof,0,163,Z,0,Netherlands
+4887818,"HYUNDAI I 30 1.4 T","Hyundai i30",06/2020,86104,Automatic,Petrol,0,140,Euro6,1252,Netherlands
+4887819,"HYUNDAI Kona EV","Hyundai Kona",06/2019,107598,Automatic,Electric,0,204,Z,0,Netherlands
+4887820,"FORD Fiesta 1.5 TDCi","Ford Fiesta",06/2020,58716,Manual,Diesel,0,86,Euro6,922,Netherlands
+4887821,"FORD Fiesta 1.1 T","Ford Fiesta",06/2019,118635,Manual,Petrol,0,69,Euro6,1112,Netherlands
+4887823,"FORD Focus Wagon 1.0","Ford Focus",06/2019,103314,Manual,Petrol,0,125,Euro6,1082,Netherlands
+4887824,"FORD Focus Wagon 1.0","Ford Focus",06/2020,149805,Manual,Petrol,0,125,Euro6,1022,Netherlands
+4887825,"Dacia SANDERO 1.0","Dacia Sandero",09/2019,135290,Manual,Petrol,0,75,Euro6,1202,Netherlands
+4887827,"CITROEN C5 Aircross 1.2","Citroen C5 Aircross",05/2022,41019,Automatic,Petrol,0,131,Euro6,1252,Netherlands
+4887828,"CITROEN C3 Aircross 1.2","Citroen C3 Aircross",04/2022,47464,Manual,Petrol,0,110,Euro6,1102,Netherlands
+4887829,"CITROEN C3 1.2","Citroen C3",06/2020,33424,Manual,Petrol,0,82,Euro6,962,Netherlands
+4887831,"BMW 2-serie Active Tourer 218","BMW 218 Active Tourer",06/2019,150751,Automatic,Petrol,0,140,Euro6,1322,Netherlands
+4887832,"BMW 5-serie 520","BMW 520",04/2020,162834,Automatic,Petrol,0,184,Euro6,1332,Netherlands
+4887833,"BMW 3-serie 320","BMW 3 Series",09/2020,146160,Automatic,Petrol,0,184,Euro6,1202,Netherlands
+4881038,"AUDI A3 40 TFSI e-tron PHEV S tronic","Audi A3",06/2020,62528,Automatic,Petrol,1395,150,Euro6,432,Belgium
+4881039,"AUDI A4 AVANT DIESEL - 2016 2.0 TDi ultra Business Ed.S tronic Module Rangement Business Plus","Audi A4",11/2017,147963,Automatic,Diesel,1968,150,Euro6,1022,Belgium
+4881040,"AUDI A4 AVANT DIESEL - 2020 30 TDi Business Edition S tronic Business","Audi A4",01/2020,52076,Automatic,Diesel,1968,136,N/A,1042,Belgium
+4881041,"AUDI A5 35 TDi S tronic (EU6d-TEMP) Assistance Tour Platinum","Audi A5",12/2019,119300,Automatic,Diesel,1968,163,Euro6,1032,Belgium
+4881042,"AUDI A6 2.0 TDI 35 S TRONIC BUSINESS EDITION Platinum","Audi A6",01/2020,82440,Automatic,Diesel,1968,163,Euro6,1042,Belgium
+4881043,"AUDI A6 AVANT DIESEL - 2018 30 TDi Business Edition Sport S tronic Busin.Plus","Audi A6",12/2019,186708,Automatic,Diesel,1968,136,Euro6,1082,Belgium
+4881044,"AUDI E-tron BEV 95KWH 55 QUATTRO ADVANCED Assistance Tour","Audi E-TRON",12/2022,31689,Automatic,Electric,0,408,N/A,0,Belgium
+4881045,"AUDI Q4 E-TRON BEV 82KWH 40 EDITION ONE BLUE AUTO Navigation Plus Climate Platinum Dynami","Audi E-TRON",09/2022,49035,Automatic,Electric,0,204,A,0,Belgium
+4881046,"AUDI Q5 DIESEL - 2017 2.0 TDi Business Plus","Audi Q5",08/2018,66814,Manual,Diesel,1968,150,Euro6,1172,Belgium
+4881047,"BMW 1 HATCH - 2015 116i Business Model Advantage","BMW 116",09/2018,121834,Manual,Petrol,1499,109,Euro6,1342,Belgium
+4881048,"BMW 1 SERIES HATCH 1.5 116DA (85KW) Business","BMW 116",04/2021,138662,Automatic,Diesel,1496,116,B,992,Belgium
+4881049,"BMW 3 - 2019 330eA PHEV Business","BMW 330",01/2020,57965,Automatic,"Hybrid (petrol / electric)",1998,184,Euro6,372,Belgium
+4881050,"BMW 3 - 2019 330eA PHEV Business Plus","BMW 330",08/2019,89400,Automatic,"Hybrid (petrol / electric)",1998,184,Euro6,382,Belgium
+4881051,"BMW 3 SERIES TOURING 2.0 316DA (90KW) TOURING -Business-Comfort-Model Advantage-","BMW 316",02/2021,53291,Automatic,Diesel,1995,122,B,1052,Belgium
+4881052,"BMW 3 TOURING DIESEL - 2019 318 d AdBlue Model Advantage Business","BMW 318",12/2019,93594,Manual,Diesel,1995,136,N/A,1182,Belgium
+4881053,"BMW 3-serie 2.0 318D (100KW) BERLINE","BMW 318",08/2020,59267,Manual,Diesel,1995,136,Euro6,1102,Belgium
+4881054,"BMW 4 GRAN COUPE DIESEL - 2017 418 dA  Model Sport Business","BMW 418",02/2018,30385,Automatic,Diesel,1995,150,Euro6,1162,Belgium
+4881055,"BMW 4 GRAN COUPE DIESEL - 2017 418 dA AdBlue Business Model Advantage","BMW 418",03/2020,76249,Automatic,Diesel,1995,136,Euro6,1192,Belgium
+4881056,"BMW 5 DIESEL - 2017 518 dA AdBlue Corporate","BMW 518",12/2019,121505,Automatic,Diesel,1995,150,Euro6,1162,Belgium
+4881057,"BMW IX BEV 77KWH XDRIVE40 Innovation Exclusive Sport Comfort Design Suite","BMW iX",11/2021,21307,Automatic,Petrol,0,326,A,0,Belgium
+4881058,"BMW X1 - 2019 1.5i sDrive18 OPF Business Model Advantage","BMW X1",12/2019,82872,Manual,Petrol,1499,136,Euro6,1252,Belgium
+4881059,"BMW X1 DIESEL - 2015 1.5 dA sDrive16 AdBlue (EU6d-TEMP) Model Advantage Business","BMW X1",05/2019,81433,Automatic,Diesel,1496,116,Euro6,1332,Belgium
+4881060,"BMW X1 DIESEL - 2015 1.5 dA sDrive16 AdBlue Model Advantage  Business","BMW X1",05/2019,79404,Automatic,Diesel,1496,116,Euro6,1332,Belgium
+4881061,"BMW X1 DIESEL - 2019 2.0 dA sDrive18 AdBlue Model  xLine Business Plus","BMW X1",10/2019,102801,Automatic,Diesel,1995,136,Euro6,1142,Belgium
+4881062,"BMW X3 DIESEL - 2018 2.0 dA sDrive18  Business","BMW X3",04/2019,166731,Automatic,Diesel,1995,150,Euro6,1662,Belgium
+4881063,"BMW X3 DIESEL - 2018 2.0 dA sDrive18 (EU6c) Model xLine Corporate","BMW X3",06/2019,125061,Automatic,Diesel,1995,150,Euro6,1722,Belgium
+4881064,"CITROAu2039N GRAND C4 SPACETOURER 1.2 PURETECH 130 S-S SHINE AUTO Safety Drive Assist","Citroen Grand C4 Picasso / SpaceTourer",03/2021,168319,Automatic,Petrol,0,130,B,1132,Belgium
+4881065,"DACIA SANDERO STEPWAY - 2017 1.0 TCe Stepway Plus (EU6.2)","Dacia Sandero",06/2020,31665,Manual,Petrol,999,101,Euro6,1102,Belgium
+4881066,"FIAT DUCATO 35 FOURGON MWB HR DSL - 2.3 Multijet M-H2 (EU6)","Fiat Ducato",09/2018,70034,Manual,Diesel,2287,130,Euro6,1662,Belgium
+4881067,"FORD Focus 1.0I ECOBOOST 92KW TITANIUM BUSINESS Winter Parking","Ford Focus",05/2019,117298,Manual,Petrol,999,125,Euro6,1282,Belgium
+4881068,"FORD FOCUS - 2018 1.0 EcoBoost Connected","Ford Focus",06/2020,36327,Manual,Petrol,998,100,Euro6,1032,Belgium
+4881069,"FORD GRAND C-MAX - 2015 1.0 EcoBoost Titanium (EU6.2) Easy Driver","Ford C-Max",02/2019,36134,Manual,Petrol,998,125,Euro6,1632,Belgium
+4881070,"FORD S-Max 2.0 TDCi Titanium PowerShift Titanium Deluxe Family Comfort","Ford S-Max",07/2018,140808,Automatic,Diesel,1997,150,Euro6,1292,Belgium
+4881071,"JAGUAR I-PACE EV400 S","Jaguar I-Pace",05/2020,100744,Automatic,Electric,0,400,N/A,0,Belgium
+4881072,"KIA NIRO PHEV 1.6 GDi Sense Plug-In DCT","Kia Niro",05/2019,117178,Automatic,Petrol,1580,105,Euro6,292,Belgium
+4881073,"MERCEDES-BENZ C-Klasse C 200 d Business Solution AMG Line Plus","Mercedes C 200",06/2018,166308,Manual,Diesel,1598,136,Euro6,1172,Belgium
+4881074,"MERCEDES-BENZ CLASS C CABRIOLET DIESEL (A205 C 220 d Advantage AMG Line int+extr","Mercedes C 220",09/2018,90425,Automatic,Diesel,1950,194,Euro6,1262,Belgium
+4881075,"MERCEDES-BENZ CLASSE A (W177) A 160 Business Solution","Mercedes A 160",10/2019,56377,Manual,Petrol,1332,109,Euro6,1272,Belgium
+4881076,"MERCEDES-BENZ CLASSE A DIESEL (W177) A 180 d Launch Edition (EU6d-TEMP) AMG Line Premium","Mercedes A 180",10/2019,152726,Automatic,Diesel,1461,116,Euro6,1032,Belgium
+4881077,"MERCEDES-BENZ CLASSE C BREAK DIESEL (S205) - C 220 d Business Solution AMG","Mercedes C 220",10/2018,104678,Automatic,Diesel,1950,194,Euro6,1492,Belgium
+4881078,"MERCEDES-BENZ CLASSE C COUPE DIESEL (C205) C 220 d Stationnement + camera de recul","Mercedes C 220",02/2018,97516,Automatic,Diesel,2143,170,Euro6,1122,Belgium
+4881081,"MERCEDES-BENZ GLC GLC 220 d 4-Matic Business Sol. (EU6c) AMG Line exterieur","Mercedes GLC 220",04/2019,176771,Automatic,Diesel,2143,170,Euro6,1922,Belgium
+4881082,"MITSUBISHI Outlander 2.4 PHEV BUS. EDIT. SDA AUTO 4WD 5PL.","Mitsubishi Outlander",06/2019,143415,Automatic,"Hybrid (petrol / electric)",2360,135,A,462,Belgium
+4881083,"MITSUBISHI OUTLANDER - 2019 2.4i 4WD PHEV Business Edition(EU6d-TEMP","Mitsubishi Outlander",03/2019,132660,Automatic,Petrol,2360,135,Euro6,462,Belgium
+4881084,"NISSAN QASHQAI - 2017 1.3 DIG-T N-Connecta (EU6d-TEMP) Design","Nissan Qashqai",04/2019,59309,Manual,Petrol,1332,140,Euro6,1302,Belgium
+4881085,"OPEL Corsa 1.0 Turbo ECOTEC Enjoy Start-Stop","Opel Corsa",04/2019,60596,Manual,Petrol,998,90,Euro6,1332,Belgium
+4881086,"OPEL Grandland 1.2 TURBO ECOTEC S-S 96KW ULTIMATE","Opel Grandland X",06/2020,83264,Manual,Petrol,1199,130,B,1142,Belgium
+4881087,"OPEL GRANDLAND X 1.5 TURBO D 96KW S-S AUTO EDITION Navi 5.0 Experience","Opel Grandland X",01/2021,109606,Automatic,Diesel,1499,131,B,1052,Belgium
+4881088,"PEUGEOT 3008 1.2 PURETECH 96KW S&S AUTO GT LINE Drive Assist + Safety Plus / Visopark 1","Peugeot 3008",07/2019,77102,Automatic,Petrol,1199,130,Euro6,1172,Belgium
+4881089,"PEUGEOT 3008 1.5 BLUEHDI 96KW S&S GT LINE","Peugeot 3008",10/2020,203234,Manual,Diesel,1499,130,Euro6,1012,Belgium
+4881090,"PEUGEOT 3008 - 2016 1.2 PureTech Allure","Peugeot 3008",05/2019,65429,Manual,Petrol,1199,130,Euro6,1582,Belgium
+4881091,"PEUGEOT 308 DIESEL - 2017 1.5 BlueHDi Allure LED&STYLE Side Security","Peugeot 308",04/2018,153510,Manual,Diesel,1499,130,Euro6,952,Belgium
+4881092,"PEUGEOT 308 DIESEL - 2017 1.5 BlueHDi GT Line (EU6.2) Safety Plus","Peugeot 308",01/2019,97466,Automatic,Diesel,1499,130,Euro6,1332,Belgium
+4881093,"PEUGEOT 508 1.5 BLUEHDI 130 S&S AUTO ACTIVE Drive Assist Plus City 1 Promo Fifty-fifty","Peugeot 508",01/2020,86003,Automatic,Diesel,1499,130,Euro6,942,Belgium
+4881094,"PEUGEOT 508 SW 1.5 BLUEHDI 130 S&S AUTO ACTIVE PACK","Peugeot 508",11/2022,60703,Automatic,Diesel,1499,130,C,1232,Belgium
+4881095,"PEUGEOT BOXER 335 FOURGON MWB HR DSL - 2.0 BlueHDi L2H2 Premium S&S","Peugeot Boxer",11/2017,150858,Manual,Diesel,1997,130,N/A,1592,Belgium
+4881096,"POLESTAR 2 78KWH AUTO 4WD PILOT PLUS Performance","Polestar Other",03/2021,49320,Automatic,Electric,0,408,A,0,Belgium
+4881097,"RENAULT CAPTUR 1.0 TCE 90 GPF ZEN","Renault Captur",06/2021,32274,Manual,Petrol,999,91,B,1212,Belgium
+4881098,"RENAULT Clio 0.9 TCe Zen (EU6c)","Renault Clio",04/2019,45346,Manual,Petrol,898,90,Euro6,1342,Belgium
+4881099,"RENAULT CLIO GRANDTOUR IV Phase II DIE 1.5 dCi Cool & Sound 2  Easy Lift","Renault Clio",07/2019,109790,Manual,Diesel,1461,90,Euro6,1042,Belgium
+4881100,"RENAULT GRAND SCENIC DIESEL - 2017 1.5 dCi Energy Intens","Renault Grand Scenic",09/2017,172448,Manual,Diesel,1461,110,Euro6,1042,Belgium
+4881101,"RENAULT KADJAR DIESEL - 2019 1.5 Blue dCi Corporate Ed. EDC (Fleet)","Renault Kadjar",06/2020,79700,Automatic,Diesel,1461,116,N/A,1112,Belgium
+4881102,"RENAULT KANGOO EXPRESS DSL - 2013 1.5 dCi Confort","Renault Kangoo",08/2015,77004,Manual,Diesel,1461,75,Euro5,1192,Belgium
+4881103,"RENAULT KANGOO EXPRESS DSL - 2013 1.5 dCi Energy Grand Confort Securite","Renault Kangoo",01/2019,127791,Manual,Diesel,1461,90,Euro6,1122,Belgium
+4881104,"RENAULT KANGOO EXPRESS MAXI DSL - 2013 1.5 dCi Confort","Renault Kangoo",07/2015,93984,Manual,Diesel,1461,90,Euro5,1302,Belgium
+4881105,"RENAULT MASTER 35 FOU MWB MHR DSL - 20 2.3 dCi 35 L2H2 En.Tw.Turbo Gd Conf.Qui.","Renault Master",10/2018,96423,Automatic,Diesel,2298,170,Euro6,1872,Belgium
+4881106,"RENAULT MASTER 35 FOU MWB MHR DSL - 20 2.3 dCi 35 L2H2 En.Tw.Turbo Gd Conf.Qui.","Renault Master",10/2018,146025,Automatic,Diesel,2298,170,Euro6,1872,Belgium
+4881107,"RENAULT MEGANE BERLINE - 2016 1.33 TCe Intens GPF Night","Renault Megane",03/2020,83136,Manual,Petrol,1332,116,Euro6,1202,Belgium
+4881108,"RENAULT TALISMAN DIESEL 1.6 dCi Energy Intens City 2","Renault Talisman",11/2017,155505,Manual,Diesel,1598,131,Euro6,1022,Belgium
+4881109,"SEAT Ibiza 1.0 TSI 70KW S-S MOVE","Seat Ibiza",11/2020,81269,Manual,Petrol,999,95,Euro6,1042,Belgium
+4881110,"SEAT Ibiza 1.6 TDI 70KW MOVE Reference","Seat Ibiza",09/2019,104454,Manual,Diesel,1598,95,Euro6,1002,Belgium
+4881111,"SKODA KODIAQ DIESEL 2.0 CR TDi Style DSG GPS","Skoda Kodiaq",09/2018,105908,Automatic,Diesel,1968,150,Euro6,1632,Belgium
+4881112,"SKODA Octavia 1.6 CR TDi Ambition DSG (EU6.2) Ambition Look Safety GPS - PROMO","Skoda Octavia",11/2018,126767,Automatic,Diesel,1598,115,Euro6,1382,Belgium
+4881113,"SKODA Octavia 1.6 CR TDi GreenLine Ambition Comfort Look GPS Safety","Skoda Octavia",03/2017,109844,Manual,Diesel,1598,110,Euro6,902,Belgium
+4881114,"TESLA MODEL 3 75 KWH LONG RANGE DUAL MOTOR 4WD AUTO","Tesla Model 3",03/2021,187159,Automatic,Electric,0,476,A,0,Belgium
+4881115,"TESLA MODEL 3 75 KWH PERFORMANCE DUAL MOTOR 4WD AUTO Full self driving capacity","Tesla Model 3",08/2020,31774,Automatic,Electric,0,215,N/A,0,Belgium
+4881116,"TOYOTA COROLLA 1.8 HYBRID DYNAMIC E-CVT","Toyota Corolla",09/2021,50350,Automatic,"Hybrid (petrol / electric)",1798,98,Euro6,782,Belgium
+4881117,"TOYOTA COROLLA 1.8 HYBRID DYNAMIC E-CVT","Toyota Corolla",08/2021,64855,Automatic,"Hybrid (petrol / electric)",1798,98,Euro6,782,Belgium
+4881118,"TOYOTA GRAND PRIUS+ - 2015 1.8i VVT-i Hybrid Dynamic Plus (EU6.2)","Toyota Prius+",01/2020,97775,Automatic,"Hybrid (petrol / electric)",1798,99,Euro6,1322,Belgium
+4881119,"VOLKSWAGEN ARTEON DIESEL 2.0 TDi SCR R-Line / Premium / Travel /Drive","Volkswagen Arteon",05/2019,107892,Manual,Diesel,1968,150,Euro6,1432,Belgium
+4881120,"VOLKSWAGEN GOLF VII - 2017 1.5 TSI ACT BM IQ.Drive OPF (EU6.2) Business","Volkswagen Golf",05/2020,75150,Manual,Petrol,1498,130,Euro6,1152,Belgium
+4881121,"VOLKSWAGEN PASSAT DIESEL - 2015 2.0 CR TDi Highline Business R-Line Exterior","Volkswagen Passat",08/2018,194101,Manual,Diesel,1968,150,Euro6,1082,Belgium
+4881122,"VOLKSWAGEN PASSAT VARIANT DIESEL - 2015 1.6 TDi Highline Business DSG","Volkswagen Passat Variant",05/2019,155314,Automatic,Diesel,1598,120,Euro6,1492,Belgium
+4881123,"VOLKSWAGEN Polo 1.6 TDI 70KW COMFORTLINE Comfort Travel","Volkswagen Polo",10/2020,94186,Manual,Diesel,1598,95,Euro6,972,Belgium
+4881124,"VOLKSWAGEN TRANSPORTER 1000 FOU LWB DSL - 2.0 TDi SCR BMT","Volkswagen T5 Transporter",03/2018,237841,Manual,Diesel,1968,150,Euro6,1642,Belgium
