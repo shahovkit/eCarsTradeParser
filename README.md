@@ -19,7 +19,7 @@ This project is designed to collect, store, and analyze car information from the
 ```bash
 git clone https://github.com/shahovkit/eCarsTradeParser
 cd eCarsTradeParser
-docker-conpose up
+docker-compose up
 ```
 #### 2. open http://localhost/
 #### 3. wait until everything is ready
